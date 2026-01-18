@@ -1,0 +1,14 @@
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\bin\Debug\net9.0\KeeperOfTomes.deps.json
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\bin\Debug\net9.0\KeeperOfTomes.dll
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\bin\Debug\net9.0\KeeperOfTomes.pdb
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\bin\Debug\net9.0\PariahCybersecurity.dll
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\obj\Debug\net9.0\KeeperOfTomes.csproj.AssemblyReference.cache
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\obj\Debug\net9.0\KeeperOfTomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\obj\Debug\net9.0\KeeperOfTomes.AssemblyInfoInputs.cache
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\obj\Debug\net9.0\KeeperOfTomes.AssemblyInfo.cs
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\obj\Debug\net9.0\KeeperOfTomes.csproj.CoreCompileInputs.cache
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\obj\Debug\net9.0\KeeperOf.71C2F496.Up2Date
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\obj\Debug\net9.0\KeeperOfTomes.dll
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\obj\Debug\net9.0\refint\KeeperOfTomes.dll
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\obj\Debug\net9.0\KeeperOfTomes.pdb
+C:\Users\WalkerDev\source\repos\KeeperOfTomesCMD\KeeperOfTomes\KeeperOfTomes\obj\Debug\net9.0\ref\KeeperOfTomes.dll
