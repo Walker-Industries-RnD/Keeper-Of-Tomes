@@ -33,9 +33,10 @@ The Keeper:
 
 <div align="center">
 
-| ![WalkerDev](Assets/WalkerDev.png)  |
-|-----------------------------|
-| **Code by WalkerDev**<br>“Loving coding is the same as hating yourself”<br>[Discord](https://discord.gg/H8h8scsxtH)  |
+| <img src="docs/assets/walkerdev.png" style="width:50%;"> |
+|-----------------------------------------------------------|
+| **Code by WalkerDev**<br>“Loving coding is the same as hating yourself”<br>[Discord](https://discord.gg/H8h8scsxtH) |
+
 
 </div>
 
