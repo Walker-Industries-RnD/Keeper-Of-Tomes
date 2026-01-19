@@ -62,6 +62,19 @@ The Keeper:
 1. Pariah Cybersecurity + It's Requirements
 2. Standart.Hash.xxHash
 
+# How to use
+You only need a singular function!
+
+```csharp
+string directoryToScan = @"C:\Users\You\Documents\TestFolder";
+string snapshotRoot = @"C:\Snapshots";
+// SnapshotDirectory will automatically create or update the snapshot
+var changes = await Keeper.SnapshotDirectory(directoryToScan, snapshotRoot);
+Console.WriteLine($"Added files: {changes.AddedFiles.Count}");
+Console.WriteLine($"Updated files: {changes.UpdatedFiles.Count}");
+Console.WriteLine($"Removed files: {changes.RemovedFiles.Count}");
+```
+
 ---
 
 
