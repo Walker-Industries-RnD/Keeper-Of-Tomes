@@ -8,6 +8,37 @@ using System.IO;
 
 namespace KeeperOfTomes
 {
+
+    public static class Keeper
+    {
+
+        public static async Task<Functions.SnapshotInfo> SnapshotDirectory(
+            string directoryToScan,
+            string snapshotRoot,
+            string? snapshotId = null)
+        {
+            directoryToScan = Path.GetFullPath(directoryToScan);
+            Directory.CreateDirectory(snapshotRoot);
+
+            var name = snapshotId ?? Path.GetFileName(directoryToScan);
+            var snapshotFile = Path.Combine(snapshotRoot, name + ".snapshot");
+
+            if (!File.Exists(snapshotFile))
+            {
+                await Functions.SaveDirectorySnapshot(
+                    directoryToScan,
+                    snapshotRoot
+                );
+
+                return new Functions.SnapshotInfo();
+            }
+
+            return await Functions.UpdateDirectorySnapshot(snapshotFile);
+        }
+    
+    
+    }
+
     public class Functions
     {
 
